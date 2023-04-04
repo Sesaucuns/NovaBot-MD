@@ -63,7 +63,7 @@ NovaBot-MD todavía no está terminado bot el desarrollo✨
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
 > pkg install yarn
-> git clone https://github.com/elrebelde21/NovaBot-MD
+> git clone https://github.com/Sesaucuns/NovaBot-MD
 > cd NovaBot-MD
 > npm install
 > yarn
